@@ -10,3 +10,4 @@
 
 ## Project 1 (Spring Boot) : Last Carnival
 - 프로젝트 상세 : [Last Carnival](https://github.com/rlawhdgur/java_python_ai_01)
+- 👉 [발표영상링크](https://www.youtube.com/watch?v=4hcJi-qpkdU)
